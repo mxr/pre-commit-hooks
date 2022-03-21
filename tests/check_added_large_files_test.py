@@ -1,5 +1,4 @@
 import distutils.spawn
-
 import pytest
 
 from pre_commit_hooks.check_added_large_files import find_large_added_files
